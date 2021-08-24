@@ -1,0 +1,15 @@
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\LoginLOL.exe.config
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\LoginLOL.exe
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\LoginLOL.pdb
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\Guna.UI2.dll
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.csproj.AssemblyReference.cache
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.Form1.resources
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.Properties.Resources.resources
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.csproj.GenerateResource.cache
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.csproj.CoreCompileInputs.cache
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.csproj.CopyComplete
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.exe
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.pdb
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\FontsInstaller.dll
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\bin\Debug\FontsInstaller.xml
+C:\Users\iagoa\source\repos\LoginLOL\LoginLOL\obj\Debug\LoginLOL.Parte2cs.resources
