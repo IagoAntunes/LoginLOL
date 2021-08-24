@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -38,7 +39,7 @@ namespace LoginLOL
         {
             if (txtSenha.Text.Equals("") || txtUser.Text.Equals(""))
             {
-                MessageBox.Show("Opa");
+                MessageBox.Show("Insira alguma mensagem");
             }
             else
             {
@@ -52,6 +53,18 @@ namespace LoginLOL
                     lblError.Visible = true;
                 }
             }
+        }
+
+        private void guna2Button8_Click(object sender, EventArgs e)
+        {
+            ProcessStartInfo startInfo = new ProcessStartInfo("IExplore.exe");
+            startInfo.WindowStyle = ProcessWindowStyle.Minimized;
+
+            Process.Start(startInfo);
+
+            startInfo.Arguments = "https://signup.br.leagueoflegends.com/pt/signup/index#/";
+
+            Process.Start(startInfo);
         }
     }
 }
